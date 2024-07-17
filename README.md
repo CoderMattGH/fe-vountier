@@ -9,7 +9,7 @@ Voluntier is a mobile app developed by [Northcoders](https://northcoders.com/) S
 [Tomasz](https://github.com/TomaszSarmata), [Lia](https://github.com/LiaPickles), [Tom](https://github.com/tomfollows), [Joseph](https://github.com/Joseph-Lee98), [Matt](https://github.com/CoderMattGH), [Joy](https://github.com/andothergames)
 
 
-Take a look at the [backend repo](https://github.com/Joseph-Lee98/be-voluntier)
+Take a look at the [backend repo](https://github.com/CoderMattGH/be-voluntier)
 
 --- 
 
