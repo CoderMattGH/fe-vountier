@@ -23,7 +23,7 @@ React Native, Expo, Axios
 
 Clone the repo:
 
-`git clone https://github.com/hexmax-nc/fe-voluntier`
+`git clone https://github.com/CoderMattGH/fe-vountier.git`
 
 
 Install dependencies: 
