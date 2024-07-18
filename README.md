@@ -36,10 +36,6 @@ to view the app:
 
 For Mac Users, [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) and [Expo Orbit](https://expo.dev/orbit) may be required to run the app within an emulator
 
---- 
-
-### <img src="https://github.com/hexmax-nc/fe-voluntier/blob/main/assets/voluntier-badge.png?raw=true" width="14">  Versions
-
 
 
 
